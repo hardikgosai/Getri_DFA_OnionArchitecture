@@ -18,6 +18,5 @@ public partial class GetriDfaonionArchiContext : DbContext
 
     public virtual DbSet<User> Users { get; set; }
 
-    public virtual DbSet<UserProfile> UserProfiles { get; set; }
-    
+    public virtual DbSet<UserProfile> UserProfiles { get; set; }    
 }
