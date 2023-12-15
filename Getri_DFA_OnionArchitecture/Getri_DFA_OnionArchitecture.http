@@ -1,0 +1,6 @@
+@Getri_DFA_OnionArchitecture_HostAddress = http://localhost:5120
+
+GET {{Getri_DFA_OnionArchitecture_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
